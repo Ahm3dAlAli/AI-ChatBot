@@ -1,5 +1,5 @@
 # 🤖Cognitive Assistance Chatbot 💬 
-Welcome to the Cognitive Assistance Chatbot by OpenFabric! This chatbot is designed to provide users with quick and accurate answers to science-related questions using advanced NLP technology.
+Welcome to part of the backened development of Cognitive Assistance Chatbot by OpenFabric! This chatbot is designed to provide users with quick and accurate answers to science-related questions using advanced NLP technology.
 
 ## Introduction
 This chatbot is an AI solution for those seeking fast and accurate answers to science-related questions. Our chatbot utilizes advanced NLP technology to process user queries and provide relevant answers in real-time. It is powered by the BERT (Bidirectional Encoder Representations from Transformers) model, which is trained on a massive amount of text data and can provide highly accurate responses to a wide range of science-related questions. The chatbot is implemented in Python using the transformers library by Hugging Face.
